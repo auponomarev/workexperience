@@ -1,0 +1,5 @@
+<phpunit bootstrap="bootstrap.php" colors="true">
+    <testsuite name="bitrix_tests">
+        <directory>tests/</directory>
+    </testsuite>
+</phpunit>
