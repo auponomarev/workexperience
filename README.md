@@ -23,10 +23,10 @@
 # Модуль для битрикс 24
 
 Модуль периодически проверяет стаж сотрудников, составляет список юбиляров и отправляет письмо уведомление о ближайшем юбилее.  
-![список юбиляров](auponomarev.weatherapi/install/assert/usersgrid.png)
+![список юбиляров](auponomarev.workexperience/install/assert/usersgrid.png)
 
 # Установка. 
 - Модуль необходимо перенести на портал от корневого каталога сайта по следующему пути /local/modules/
 - Модуль необходимо установить, как партнерский модуль в административном разделе http://{your_site}/bitrix/admin/partner_modules.php
 - Если необходимо, модуль можно настроить.
- ![настройки модуля](auponomarev.weatherapi/install/assert/options.png)
+ ![настройки модуля](auponomarev.workexperience/install/assert/options.png)
